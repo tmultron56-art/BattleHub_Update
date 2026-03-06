@@ -1,5 +1,6 @@
 {
-"version": "1.0.1",
-"url": "https://battlehub.base44.app/app/BattleHubFF.apk",
-"message": "🚀 New update available!\nBug fixes\nBetter performance\nNew features"
+"latestVersion": 2,
+"updateUrl": "https://battlehub.base44.app/app/BattleHubFF.apk",
+"message": "🚀 New update available!\nBug fixes\nBetter performance\nNew features",
+"mandatory": false
 }
